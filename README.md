@@ -9,18 +9,21 @@
 - 정렬할 줄의 정보들
 
 ## 입력 예시
-3 <br>
-$ <br>
-Field1*:Field2:Field3 <br>
-$ <br>
-3:A:Z <br>
-2:B:X <br>
-1:C:Y <br>
+hw1_input.txt
+
+> 3 <br>
+> $ <br>
+> Field1*:Field2:Field3 <br>
+> $ <br>
+> 3:A:Z <br>
+> 2:B:X <br>
+> 1:C:Y <br>
 
 ## 출력
 선택된 필드를 기준으로 정렬한 결과
 
 ## 출력 예시
-1:C:Y <br>
-2:B:X <br>
-3:A:Z <br>
+hw1_output.txt
+> 1:C:Y <br>
+> 2:B:X <br>
+> 3:A:Z <br>
